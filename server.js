@@ -1,4 +1,5 @@
-// // datatypes
+// // datatypes number,string,boolean,undefined 
+// typeof function
 
 // // var a = 123;
 // // console.log(a);
