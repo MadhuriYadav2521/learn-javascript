@@ -125,19 +125,5 @@
 // var x = inRange(num);
 // console.log(x); 
 
-var a;
-var b;
-var c;
-function functionOverload(para1,para2) {
-    return para1 * para2;
-}
-function functionOverload(para1,para2,para3) {
-    return para1 * para2 * para3;
-}
-
-var x = functionOverload(2,4);
-var z = functionOverload(2,4,2);
-console.log(x);
-console.log(z);
 
 
