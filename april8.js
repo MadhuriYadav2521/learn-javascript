@@ -38,20 +38,20 @@
 // var z = multi(a,b);
 // console.log('z =',z);
 
-// var a = 22;
-// var b = 44;
+// var a;
+// var b;
 // function greater(para1, para2) {
 //     if(para1 > para2){
 //         console.log('a ' + para1+' is greater');
-//         return;
+//         // return;
 //     }
 //     else{
 //         console.log('b '+ para2+' is greater');
-//         return;
+//         // return;
 //     }
 
 // }
-// var z = greater(a,b);
+// var z = greater(22,45);
 
 // var a = 2;
 // var b = 4;
@@ -64,10 +64,9 @@
 //     }
 //     bigger = bigger * 2;
 //     return bigger;
-
 // }
-// var x = greater(a,b)
-// console.log(x);
+//  var x = greater(a,b)
+//  console.log(x);
 
 // var a = 25;
 // function number(a) {

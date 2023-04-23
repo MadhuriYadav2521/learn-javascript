@@ -59,8 +59,6 @@
 // }
 // console.log("largest number is" + largNum);
 
-
-
 //  var num1 = 15;
 //  var num2 = 20;
 //  var num3 = 40;
@@ -99,4 +97,9 @@
 
 // if(5 <= num && num >= 25)
 
-
+var num=200;
+if(num>=5 && num<=25){
+    console.log("im range");
+}else{
+    console.log("not in range");
+}

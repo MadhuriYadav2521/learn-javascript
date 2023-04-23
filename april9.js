@@ -17,7 +17,7 @@
 
 
 // var rangeStart = 10;
-// var rangeEnd = 50;
+// var rangeEnd = 20;
 // for(var a=rangeStart; a<=rangeEnd/2; a++){
 //     console.log(a);
 // }
@@ -25,7 +25,7 @@
 // var rangeStart = 11;
 // var rangeEnd = 20;
 // function rangeNum(a,b) {
-//     for(var i =rangeStart; i<=rangeEnd; i+=3)
+//     for(var i =rangeStart; i<=rangeEnd; i++)
 //     console.log(i);
 // }
 // rangeNum(rangeStart, rangeEnd);
@@ -76,7 +76,7 @@ var rangeEnd = 20;
 var j=0;
 function countNum(a,b){
     for(var i =a; i<=b; i++)
-    if(i%2==1){
+    if(i%2!==0){
         // console.log(i);
         j++;
     }
