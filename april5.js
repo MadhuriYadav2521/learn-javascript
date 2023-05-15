@@ -4,11 +4,11 @@
 // console.log(2 !== '2'); //no equal to
 
 // // conditional statement
-// if (2 > 1){
-//     console.log('2 is greater');
-// }else{
-//     console.log('1 is greater');
-// }
+if (2 > 1){
+    console.log('2 is greater');
+}else{
+    console.log('1 is greater');
+}
 
 
 // var userAge = 40;
